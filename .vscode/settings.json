@@ -1,3 +1,9 @@
 {
-    "azure.tenant": "ad541c0e-fd61-4745-9431-c780b3091934"
+    "azure.tenant": "",
+    "azureFunctions.deploySubpath": "backend/api/bin/Release/net6.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "backend/api",
+    "azureFunctions.preDeployTask": "publish (functions)"
 }
